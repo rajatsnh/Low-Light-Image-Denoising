@@ -9,13 +9,13 @@ The paper used for implementation are :
 Dataset used is the one given in the slack community.
 
 
-##Implementation Details
+## Implementation Details
 
 
-*Training Data:The model is trained with images from the train/low and train/high directories.
-...*train/low: Contains low light images.
-...*train/high: Contains corresponding well-lit images.
-Testing Data:The model processes images from the test/low directory to produce enhanced outputs.
-...*test/low: Contains low light images for testing.
+* Training Data:The model is trained with images from the train/low and train/high directories.
+...* train/low: Contains low light images.
+...* train/high: Contains corresponding well-lit images.
+* Testing Data:The model processes images from the test/low directory to produce enhanced outputs.
+...* test/low: Contains low light images for testing.
 
 
