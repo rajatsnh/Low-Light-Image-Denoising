@@ -16,7 +16,7 @@ Dataset used is the one given in the slack community.
 
     * train/low: Contains low light images.
 
-    * train/high: Contains corresponding well-lit images.
+    * train/high: Contains corresponding well Lit images.
 
 * Testing Data:The model processes images from the test/low directory to produce enhanced outputs.
 
